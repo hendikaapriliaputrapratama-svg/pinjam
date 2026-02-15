@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistem Peminjaman Alat Sekolah</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <div id="app"></div>
 
+    <!-- Developer Tools Toggle -->
+    <div id="devtools-toggle" class="devtools-toggle">
+        <button id="devtools-btn">🛠️ DevTools</button>
+    </div>
+
+    <script src="js/devtools.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
